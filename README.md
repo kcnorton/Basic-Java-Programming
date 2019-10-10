@@ -4,10 +4,10 @@ This repository holds the work I completed as part of the Coursera online course
 
 ### Assignments include:
 
-#### Calculating the perimeter of a shape
+1 Calculating the perimeter of a shape
 
-#### Finding genes in a string of DNA
+2 Finding genes in a string of DNA
 
-#### Parsing CSV files and extracting information from them
+3 Parsing CSV files and extracting information from them
 
-#### A mini project where information about popular baby names is parsed from CSV files in order to analyze
+4 A mini project where information about popular baby names is parsed from CSV files in order to analyze
