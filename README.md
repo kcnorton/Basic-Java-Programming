@@ -1,8 +1,8 @@
 # Java-Programming-Solving-Problems-With-Software
 
-This repository holds the work I completed as part of the Coursera online course Java Programming: Solving Problems with Software. 
+This repository holds the work I completed for Java Programming: Solving Problems with Software. 
 
-### Assignments include:
+### Projects include:
 
 1. Calculating the perimeter of a shape
 
