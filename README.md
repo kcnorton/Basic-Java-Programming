@@ -1,6 +1,6 @@
 # Java-Programming-Solving-Problems-With-Software
 
-This repository holds the work I completed for Java Programming: Solving Problems with Software. 
+This repository holds small projects I completed as practice with Java. 
 
 ### Projects include:
 
