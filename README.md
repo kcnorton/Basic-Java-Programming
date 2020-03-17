@@ -1,4 +1,4 @@
-# Java-Programming-Solving-Problems-With-Software
+# Basic Java Programming
 
 This repository holds small projects I completed as practice with Java. 
 
