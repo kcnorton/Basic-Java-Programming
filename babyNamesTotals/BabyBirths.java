@@ -1,8 +1,4 @@
-/**
- * Print out total number of babies born, as well as for each gender, in a given CSV file of baby name data.
- * 
- * @author Duke Software Team 
- */
+
 import edu.duke.*;
 import java.util.*;
 import java.io.*;
